@@ -214,11 +214,11 @@ public class VentanaPrincipal extends javax.swing.JFrame {
 
     private void btnLimpiarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnLimpiarActionPerformed
         // TODO add your handling code here:
-        nota1.setText("");
-        nota2.setText("");
-        nota3.setText("");
-        nota4.setText("");
-        nota5.setText("");
+        txtNota1.setText("");
+        txtNota2.setText("");
+        txtNota3.setText("");
+        txtNota4.setText("");
+        txtNota5.setText("");
         
         promedio.setText("");
         desviacion.setText("");
